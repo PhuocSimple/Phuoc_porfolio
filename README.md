@@ -1,6 +1,6 @@
 # Phuoc_porfolio
 
-# [Project 1](https://github.com/PhuocSimple/KARSALES_Data-collection-and-Analysis)
+# [Karsale ](https://github.com/PhuocSimple/KARSALES_Data-collection-and-Analysis)
 * Created a tool that estimates car sale price to help customers buy car at the price the car should be paid.
 
 * Scraped over 30.000 price and information using python and selenium.
@@ -15,8 +15,8 @@
 
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/98181828/162626704-ecb892d6-baff-4658-b250-f67b5043da01.png">
 
-## [Project 2](https://github.com/PhuocSimple/YT_dashboard)
-
+# [Youtube Dashboard](https://share.streamlit.io/phuocsimple/yt_dashboard/main/python.py)
+##[Github Source code](https://github.com/PhuocSimple/YT_dashboard)
 * Used kaggle dataset about youtube viewer,subscriber,.. to create website dashboard help Youtubers know which video is perform good and not
 * Developed an impactful dashboards website using data from Kaggle transform raw data into meaningful data to identify which Videos and Individual Video shows are performed good help YouTubers know which is the best stragegy for the next video hence increasing the quality of the channel
 
