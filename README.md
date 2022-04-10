@@ -1,14 +1,6 @@
 # Phuoc_porfolio
 
 # [Project 1](https://github.com/PhuocSimple/KARSALES_Data-collection-and-Analysis)
-
-*	Collaborated with 2 business analysts and 1 project manager to improve [Karsale]’s performance of car price suggestion, hence increasing [Karsale]’s revenue
-
-*	Made a python tool to take data from the car selling websites, developed impactful dashboards in Python Matplotlib and Tableau to identify key metrics and transform raw data into meaningful, use ML/DL to make an impactful model for forecast and make contributions to the company strategy
-
-*	Contributed to the increase of sales by 25% per product and decrease of cart abandonments by 27% 
-## Project overview 
-
 * Created a tool that estimates car sale price to help customers buy car at the price the car should be paid.
 
 * Scraped over 30.000 price and information using python and selenium.
@@ -18,4 +10,15 @@
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
 
 * Built a client facing API using flask (upcoming).
+
+<img width="365" alt="image" src="https://user-images.githubusercontent.com/98181828/162626687-a3024f3a-7f23-4e57-85f8-7696ba19d332.png">
+
+<img width="436" alt="image" src="https://user-images.githubusercontent.com/98181828/162626704-ecb892d6-baff-4658-b250-f67b5043da01.png">
+
+## [Project 2](https://github.com/PhuocSimple/YT_dashboard)
+
+* Used kaggle dataset about youtube viewer,subscriber,.. to create website dashboard help Youtubers know which video is perform good and not
+* Developed an impactful dashboards website using data from Kaggle transform raw data into meaningful data to identify which Videos and Individual Video shows are performed good help YouTubers know which is the best stragegy for the next video hence increasing the quality of the channel
+
+
 
